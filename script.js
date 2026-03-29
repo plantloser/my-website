@@ -1,5 +1,5 @@
 function videoFunction() {
-            document.getElementById("myComment").innerHTML += "A Awsome Puma Video!";
+            document.getElementById("myComment").innerHTML += "";
         }
 
 function emailMessage() {
